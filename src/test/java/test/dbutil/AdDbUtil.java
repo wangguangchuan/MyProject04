@@ -15,7 +15,7 @@ import java.util.Map;
 import javax.sql.DataSource;
 
 /**
- * Created by ycy on 16/7/30.
+ * Created by ycy on 16/7/30.!!!!!!!!!!!!!!!
  */
 public class AdDbUtil<T> {
   private Logger logger = LoggerFactory.getLogger(this.getClass());
